@@ -2,7 +2,7 @@ body {
   font-size: x-large;
   font-family:"Gill Sans", sans-serif;
   background-image: url('background-image.jpg'); 
-  background-size:contain;
+  background-size:cover;
   background-position: center;
   background-attachment: fixed; 
   text-align: center;
